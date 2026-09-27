@@ -1,0 +1,39 @@
+body{
+    margin: 48px;
+    background-color: rgba(172, 201, 224, 0.411);
+}
+.notice{
+max-width: 560px;
+padding: 28px 32px;
+background-color: whitesmoke;
+border-left: 6px solid blue;
+}
+.notice-title{
+   margin: 0 0 10px;
+  font-size: 24px;
+  font-weight: 700;
+  color: #0f172a; 
+}
+.notice-title .material-symbols-outlined {
+  font-size: 28px;
+  color: #2563eb;
+  vertical-align: middle;
+  margin-right: 8px;
+}
+.notice-text {
+  margin: 0 0 14px;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #334155;
+}
+
+.notice-meta {
+  margin: 0;
+  font-size: 14px;
+  color: #64748b;
+}
+.notice-meta .material-symbols-outlined {
+  font-size: 18px;
+  vertical-align: middle;
+  margin-right: 4px;
+}

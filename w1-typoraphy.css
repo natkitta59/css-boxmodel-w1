@@ -1,0 +1,32 @@
+body {
+  margin: 48px;
+  background-color: #f8fafc;
+}
+
+.post{
+  max-width: 640px;
+}
+.category{
+margin: 0 0 12px;
+font-size: 14px;
+font-weight: 700;
+color: blue;
+}
+.title{
+  margin: 0 0 12px;
+  font-size: 36px;
+  font-weight: 700px;
+  line-height: 1.5;
+  color: black;
+}
+.meta{
+  margin: 0 0 20px;
+  font-size: 14;
+  color: rgb(66, 78, 78);
+}
+.lead{
+margin: 0;
+font-size: 18;
+line-height: 1.7;
+color: rgb(86, 99, 100);
+}

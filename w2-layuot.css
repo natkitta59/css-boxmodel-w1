@@ -1,0 +1,41 @@
+body{
+    margin: 48px;
+    background-color: rgba(172, 201, 224, 0.411);
+}
+.article {
+  width: 360px;
+  padding: 16px;
+  background: #f8fafc;
+  border: 2px solid #e2e8f0;
+  border-radius: 10px;
+  font-size: 13px;
+  line-height: 1.8;
+}
+.photo{
+    float: left;
+    width: 96px;
+    height: 96px;
+    margin: 0 14px 8px 0;
+    background: #bfdbfe;
+    border: 2px solid #3b82f6;
+    border-radius: 8px;
+    font-size: 30px;
+    line-height: 92px;
+    text-align: center;
+}
+.headline{
+    margin: 0 0 8px 0;
+    font-size: 17px;
+}
+.text{
+    margin: 0 0 8px 0;
+}
+
+.footer{
+    /* clear: both; */
+    text-align: center;
+    margin: 8px;
+    background: #e2e8f0;
+    border-radius: 6px;
+    color: #3b82f6;
+}

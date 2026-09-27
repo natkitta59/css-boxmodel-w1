@@ -1,0 +1,22 @@
+body{
+    margin: 48px;
+    background-color: rgb(220, 230, 238);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.quote{
+    max-width: 560px;
+    margin: 0 auto;
+    padding: 32px 40px;
+    background-color: white;
+    text-align: center;
+}
+blockquote {
+  margin: 0 0 16px;
+  font-size: 24px;
+  line-height: 1.6;
+  color: hsl(220, 13%, 18%);
+}
+
+figcaption{
+    color: rgb(142, 144, 148);
+}
